@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadervender",
+        "uuid": 5825495,
+        "checksum": "724r5"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
